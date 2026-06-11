@@ -116,7 +116,7 @@ The project includes an interactive Streamlit application that allows users to:
 Add your deployed Streamlit application link below after deployment:
 
 ```text
-https://your-app-name.streamlit.app
+https://sales-prediction-vasanthi.streamlit.app/
 ```
 
 ---
